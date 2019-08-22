@@ -6,6 +6,6 @@ var str = "Hello, playground"
 
 let a = 100
 let b = 300
-a+b
+a + b
 
-print(a+b)
+print( a + b)
